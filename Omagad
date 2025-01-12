@@ -137,4 +137,6 @@ game:GetService("RunService").RenderStepped:Connect(function()
         end
     end
 end)
+wait(0.4)
+inform("Script made by sm1le",3)
 --by sm1le
