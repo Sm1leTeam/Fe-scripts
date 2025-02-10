@@ -86,7 +86,7 @@ Character = Player.Character
 Player.Character.Head.face.Texture = "rbxassetid://88284243825997"
 
 local msg = Instance.new("Message",workspace)
-msg.Text = "Omg Big penisss"
+msg.Text = "Omg Big penisss --by sm1le"
 wait(1.4)
 msg:Destroy()
 --by sm1le
