@@ -86,7 +86,10 @@ Character = Player.Character
 Player.Character.Head.face.Texture = "rbxassetid://88284243825997"
 
 local msg = Instance.new("Message",workspace)
-msg.Text = "Omg Big penisss --by sm1le"
+msg.Text = "Omg Big penisss by sm1le"
 wait(1.4)
 msg:Destroy()
 --by sm1le
+wait(0.2)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sm1leTeam/Fe-scripts/refs/heads/main/Omagad", true))()
+-- Masturbation script
